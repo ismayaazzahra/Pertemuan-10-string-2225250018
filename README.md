@@ -2,7 +2,7 @@
 
 ## Identitas
 
-Nama: Ismaya Catur Dewi Azzahra  
+Nama: Ismaya Catur Dewi Azzahr  
 NIM: 2225250018  
 Kelas: 3A
 
